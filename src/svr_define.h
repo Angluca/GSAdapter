@@ -1,0 +1,14 @@
+#ifndef  __SVR_DEFINE_H__
+#define  __SVR_DEFINE_H__
+
+#define		SERVER_PORT	4444
+#define 	MAX_CONNECTION_BACKLOG 1024
+#define 	MAX_EPOLL_SIZE	1024
+
+#define 	MAX_THREAD_NUM	4
+
+#define		MAX_BUFFER_SIZE	65515
+#define		MAX_BUFFER_SOCKET_SIZE	65535
+#define     MAX_NAME_SIZE	20
+
+#endif  /*__SVR_DEFINE_H__*/

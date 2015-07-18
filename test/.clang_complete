@@ -1,0 +1,4 @@
+
+-I .
+-I ../src
+-I /home/angluca/library/gtest-1.6.0/include

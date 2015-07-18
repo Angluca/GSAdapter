@@ -1,1 +1,2 @@
 # GSAdapter
+> SQL watcher.
